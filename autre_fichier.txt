@@ -1,0 +1,1 @@
+On rajoute une fonction dans autre fichier
